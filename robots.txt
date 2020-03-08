@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iushiehah.spreemanns.de/sitemap.xml
